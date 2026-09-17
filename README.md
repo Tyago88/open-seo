@@ -64,6 +64,10 @@ When you self host, your costs will be slightly lower than the estimates on our 
 
 See [`docs/LOCAL_DEVELOPMENT.md`](./docs/LOCAL_DEVELOPMENT.md).
 
+## API References
+
+- [`DataForSEO v3 API Reference & Implementation Guide`](./docs/references/DATAFORSEO_V3_API_REFERENCE.md) (Postman Collection Mapping & Payloads)
+
 ## Contributing
 
 Creating clear issues is the best way to contribute.
